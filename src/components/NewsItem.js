@@ -6,7 +6,7 @@ const NewsItemBlock = styled.div`
   .thumbnail {
     margin-right: 1rem;
   }
-  .img {
+  img {
     display: block;
     width: 160px;
     height: 100px;
